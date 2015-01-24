@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ver",
+				"verbose_mission_name"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"solr",
+				"solr_path"
+			],
+			[
+				"l",
+				"_list"
+			],
+			[
+				"mo",
+				"mother_organisation"
+			],
+			[
+				"per",
+				"perso_mails"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ludovic/Projets/django-timelap"
+	],
+	"file_history":
+	[
+		"/home/ludovic/Projets/minicra/apps/frontend/urls.py",
+		"/home/ludovic/Projets/minicra/apps/frontend/views/reports.py",
+		"/home/ludovic/Projets/minicra/requirements/base.txt",
+		"/home/ludovic/Projets/minicra/apps/activity/models.py",
+		"/home/ludovic/Projets/minicra/apps/frontend/templates/frontend/activity/test_modelformset.html",
+		"/home/ludovic/Projets/minicra/README.md",
+		"/home/ludovic/Projets/adelle/apps/contacts/contact_channels/models.py",
+		"/home/ludovic/Projets/adelle/apps/contacts/contact_lists/views.py",
+		"/home/ludovic/Projets/adelle/apps/contacts/contact_lists/export.py",
+		"/home/ludovic/Projets/adelle/apps/common/search/search_indexes.py",
+		"/home/ludovic/Projets/adelle/apps/common/search/conf/solr_schema.xml",
+		"/home/ludovic/Projets/adelle/fabfile.py",
+		"/home/ludovic/Projets/adelle/apps/locale/fr/LC_MESSAGES/django.po",
+		"/home/ludovic/Projets/forums/doi/urls.py",
+		"/home/ludovic/Projets/forums/doi/settings.py",
+		"/home/ludovic/Projets/forums/lib/python2.7/site-packages/wp/tests.py",
+		"/home/ludovic/Projets/adelle/apps/contacts/persons/views.py",
+		"/home/ludovic/Projets/adelle/apps/common/search/views.py",
+		"/home/ludovic/Projets/adelle/apps/common/search/signals.py",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/persons/person-detail-form.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/persons/person-detail-form-with-files.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/organisations/organisation-detail-form.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/organisations/organisation-detail-form-with-files.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/documents/document-form.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/notes/note-form.html",
+		"/home/ludovic/Projets/adelle/apps/common/frontend/templates/frontend/crm/contact_lists/contact-list-form.html",
+		"/home/ludovic/Projets/adelle/apps/contacts/notes/views.py",
+		"/home/ludovic/Projets/adelle/apps/contacts/documents/views.py",
+		"/home/ludovic/Projets/adelle/adelle/locale/fr/LC_MESSAGES/django.po",
+		"/home/ludovic/Projets/adelle/apps/common/parameters/scripts/init_crmconfig.py",
+		"/home/ludovic/Projets/adelle/adelle/startup.py",
+		"/home/ludovic/Dropbox/Personnel/sublimetext.license"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/ludovic/Projets/adelle/apps"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SETTINGS_DIR",
+			"complement",
+			"country",
+			"print",
+			"Null",
+			"fuzz",
+			"fuzzy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "django-timelap.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
