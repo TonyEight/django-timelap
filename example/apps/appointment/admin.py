@@ -1,3 +1,6 @@
 from django.contrib import admin
+from appointment.models import SimpleEvent, ClassicEvent
 
-# Register your models here.
+
+admin.site.register(SimpleEvent)
+admin.site.register(ClassicEvent)

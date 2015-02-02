@@ -11,8 +11,10 @@ https://docs.djangoproject.com/en/1.7/ref/settings/
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os, sys
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-APPS_DIR = os.path.join(os.path.dirname(BASE_DIR), 'apps')
+APPS_DIR = os.path.join(BASE_DIR, 'apps')
+ENV_DIR = os.path.dirname(BASE_DIR)
 sys.path.append(APPS_DIR)
+sys.path.append(ENV_DIR)
 
 
 # Quick-start development settings - unsuitable for production
@@ -38,6 +40,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'appointment',
 )
 
 MIDDLEWARE_CLASSES = (
